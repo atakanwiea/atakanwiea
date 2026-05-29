@@ -5,6 +5,13 @@
 </div>
 
 <p align="center">
+  <b>🧑‍💻</b> ━━ <b>🍄</b> ━━ <b>🧱</b> ━━ <b>⭐</b> ━━ <b>🏁</b>
+</p>
+<p align="center">
+  <sub>shipping code like a platformer: jump → build → collect → finish</sub>
+</p>
+
+<p align="center">
   <a href="https://komarev.com/ghpvc/?username=atakanwiea&style=for-the-badge&color=0D1117">
     <img src="https://komarev.com/ghpvc/?username=atakanwiea&style=for-the-badge&color=0D1117" alt="Profile views" />
   </a>
